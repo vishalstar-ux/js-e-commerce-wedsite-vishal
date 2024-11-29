@@ -12,8 +12,15 @@ Perfer not to use var
 because of issue in block  scope and functional = scope
 */
 
+const heros  = ["my sql","mongodb","react dom"];
+let MyObjuct = {
+    name:"visjal",
+    age:22,
 
-
+}
+const MyFunction = function(){
+    
+}
 
 
 console.log("vishal mandal")
